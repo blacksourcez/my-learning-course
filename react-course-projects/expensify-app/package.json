@@ -38,7 +38,7 @@
     "jest": "^24.9.0",
     "live-server": "^1.2.1",
     "mini-css-extract-plugin": "^0.9.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "raf": "^3.4.1",
     "react-test-render": "^1.1.2",
     "sass-loader": "^8.0.0",
